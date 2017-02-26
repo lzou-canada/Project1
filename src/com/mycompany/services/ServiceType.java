@@ -1,4 +1,4 @@
-package backend.services;
+package com.mycompany.services;
 
 import java.util.HashMap;
 import java.util.Map;

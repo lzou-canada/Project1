@@ -1,4 +1,4 @@
-package backend.services;
+package com.mycompany.services;
 
 /**
  * Created by Fei Chen on 2/25/2017.
