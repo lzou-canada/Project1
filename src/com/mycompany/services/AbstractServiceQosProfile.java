@@ -5,15 +5,29 @@ import java.util.List;
 /**
  * Created by Fei Chen on 2/25/2017.
  */
-public class AbstractServiceQos
+public class AbstractServiceQosProfile
 {
     private String profileId;
     private List<Queue> queueOverrides;
 
-    public AbstractServiceQos(String profileId, List<Queue> queueOverrides)
+    public void setProfileId(String profileId)
     {
         this.profileId = profileId;
+    }
+
+    public String getProfileId()
+    {
+        return profileId;
+    }
+
+    public void setQueueOverrides(List<Queue> queueOverrides)
+    {
         this.queueOverrides = queueOverrides;
+    }
+
+    public List<Queue> getQueueOverrides()
+    {
+        return queueOverrides;
     }
 
     public static class Queue
