@@ -8,6 +8,7 @@ import java.util.Map;
  */
 public enum ServiceType
 {
+    // add one line here
     SERVICE_TYPE_UNKNOWN(0,"Unknown"),
     SERVICE_TYPE_ELINE(1,"E-Line"),
     SERVICE_TYPE_ELAN(2, "E-LAN"),
