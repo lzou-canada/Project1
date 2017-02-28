@@ -17,6 +17,7 @@ public enum ServiceType
     // add something here again for PTS-220
     // add something else for PTS-222
     // add one line here
+    // now add one more line in one repo
     SERVICE_TYPE_UNKNOWN(0,"Unknown"),
     SERVICE_TYPE_ELINE(1,"E-Line"),
     SERVICE_TYPE_ELAN(2, "E-LAN"),
