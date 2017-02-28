@@ -8,6 +8,7 @@ import java.util.Map;
  */
 public enum ServiceType
 {
+    // add something else for PTS-222
     // add one line here
     SERVICE_TYPE_UNKNOWN(0,"Unknown"),
     SERVICE_TYPE_ELINE(1,"E-Line"),
