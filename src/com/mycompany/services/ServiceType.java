@@ -10,6 +10,7 @@ public enum ServiceType
 {
     // this is good
     // add something here for the Service Repo
+    // add one line here again for PTS-122
     // add something else for PTS-222
     // add one line here
     SERVICE_TYPE_UNKNOWN(0,"Unknown"),
