@@ -8,6 +8,7 @@ public abstract class Service extends AbstractServiceQosProfile
     private String name;
     private ServiceType serviceType;
 
+    // add a couple of lines of code for feature-1
     // add another line here
     public Service(String name)
     {
