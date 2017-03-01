@@ -8,6 +8,7 @@ public abstract class Service extends AbstractServiceQosProfile
     private String name;
     private ServiceType serviceType;
 
+    // add another line here
     public Service(String name)
     {
         this.name = name;
