@@ -17,6 +17,7 @@ public abstract class Service extends AbstractServiceQosProfile
     }
 
     // add one line for the feature-1
+    // one line for feature-2
     public String getName()
     {
         return name;
