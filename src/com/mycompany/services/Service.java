@@ -14,6 +14,7 @@ public abstract class Service extends AbstractServiceQosProfile
         serviceType = getServiceType();
     }
 
+    // one line for feature-2
     public String getName()
     {
         return name;
