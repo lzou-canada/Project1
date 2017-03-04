@@ -13,6 +13,7 @@ public class ELineService extends Service
     @Override
     protected ServiceType getServiceType()
     {
+        // add CCC to move the master
         return ServiceType.SERVICE_TYPE_ELINE;
     }
 }
