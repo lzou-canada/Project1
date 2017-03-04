@@ -9,6 +9,7 @@ public class ELanService extends Service
     // added one line here to advance the Services branch
     public ELanService(String name)
     {
+        // add line B2 to move the master
         // add CC to move the master
         super(name);
     }
