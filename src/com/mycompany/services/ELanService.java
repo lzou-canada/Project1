@@ -11,6 +11,7 @@ public class ELanService extends Service
         super(name);
     }
 
+    // add AA to move the master
     @Override
     protected ServiceType getServiceType()
     {
