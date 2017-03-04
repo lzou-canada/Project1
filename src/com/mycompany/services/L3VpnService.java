@@ -13,6 +13,7 @@ public class L3VpnService extends Service
     @Override
     protected ServiceType getServiceType()
     {
+        // add line B5 to move the master
         // add line A1 to move the master
         // Fixed the PTS-199 in L3VPN to move the branch
         // added a feature for L3VPN to move the master branch
