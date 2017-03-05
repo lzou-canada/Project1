@@ -24,6 +24,7 @@ public class CLineService extends Service
 
     // add line A1 to move the master
 
+    // add line C1 to move the feature-poc
     @Override
     protected ServiceType getServiceType()
     {
