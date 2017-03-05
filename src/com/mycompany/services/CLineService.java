@@ -5,6 +5,7 @@ package com.mycompany.services;
  */
 public class CLineService extends Service
 {
+    // add B1 to move the master branch
     // add one line here for the Services repo testing
     public CLineService(String name)
     {
